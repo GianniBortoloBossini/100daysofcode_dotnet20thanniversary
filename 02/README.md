@@ -49,7 +49,7 @@ dotnet fsi .\ScriptWithNugetPackageExperiment.fsx
 
 TADAA!! Script executed succesfully! 
 
-But there's another simpler way to execute an F# script: 
+But there's another simplier way to execute an F# script: 
 - open VS Code or Visual Studio, as you prefer
 - copy the code above
 - select all lines
