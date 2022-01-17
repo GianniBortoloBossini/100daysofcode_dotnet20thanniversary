@@ -7,3 +7,4 @@ I hope that what I learn and share every day could be interesting for you and fo
 Days:
 
 - [Day 1 - Create your first script in C# with `dotnet-script`](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/01)
+- [Day 2 - Create your first script in F#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/02)
