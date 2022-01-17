@@ -39,6 +39,7 @@ let holidays = new ItalyPublicHoliday()
 dateValues
 |> Seq.map(fun dateValue -> DateTime.FromOADate(dateValue))
 |> Seq.map(fun date -> sprintf "%s is %sa public holiday" (date.ToString "yyyy/MM/dd") (if holidays.IsPublicHoliday(date) then "" else "not "))
+|> Seq.toArray
 |> printfn "%A"
 ```
 and run this command from command line
