@@ -59,3 +59,6 @@ You can select only a bunch of rows, without saving the file, while you are writ
 
 ### Conclusion
 Executing scripts in F# is so simple that you cannot forget to try this experience!
+
+
+PS: before press `ALT+ENTER` keys, remember to include `open` and `external references` to your selected lines ;)
