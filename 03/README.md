@@ -14,7 +14,7 @@ To invoke methods from the service directly from action method,
   app.MapGet("/", (WeatherForecastService service) => Results.Ok(service.Get()));
   ```
 So easy! I remember that MVC web api requires developer to 
-- inject the service into the controller, 
+- inject the service into the controller constructor, 
 - create a local private readonly variable, 
 - assign the service parameter from the controller to this variable
 - use the local service variable into the action method
@@ -37,6 +37,6 @@ To invoke methods from the service directly from action methods,
   [HttpGet()]
     public IEnumerable<WeatherForecast> Get([FromServices] WeatherForecastService service)
         => service.Get();
-  ```. 
+  ``` 
   
 No costructor needed: not bad!
