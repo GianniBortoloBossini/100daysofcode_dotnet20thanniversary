@@ -39,4 +39,4 @@ To invoke methods from the service directly from action methods,
         => service.Get();
   ``` 
   
-No costructor needed: not bad!
+No constructor needed: not bad!
