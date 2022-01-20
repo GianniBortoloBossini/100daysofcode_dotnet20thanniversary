@@ -10,3 +10,4 @@ Days:
 - [Day 2 - Create your first script in F#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/02)
 - [Day 3 - Simplify MVC web api controllers](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/03)
 - [Day 4 - Functional FizzBuzz in F# and C#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/04)
+- [Day 5 - Solving the bowling kata in C#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/05)
