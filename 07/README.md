@@ -1,4 +1,4 @@
-## Day 7 - Enhanced .net 6 Minimal Api solution with Carter
+## Day 7 - Enhanced .net 6 Minimal Api project with Carter
 
 I'm old enough to remember NancyFx. [NancyFx](http://nancyfx.org/) was a simple library to create REST API using the _.net framework_. It aimed to improve the structure of the project simplifying the way to create endpoints, as you can see below 
 ```
