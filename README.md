@@ -12,3 +12,4 @@ Days:
 - [Day 4 - Functional FizzBuzz in F# and C#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/04)
 - [Day 5 - Solving the bowling kata in C#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/05)
 - [Day 7 - Enhanced .net 6 Minimal Api project with Carter](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/07)
+- [Day 8 - Reading and wrinting csv files in F#](https://github.com/GianniBortoloBossini/100daysofcode_dotnet20thanniversary/tree/main/08)
